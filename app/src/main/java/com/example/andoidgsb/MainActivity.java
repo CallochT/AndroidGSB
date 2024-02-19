@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     Button buttonListe = (Button) findViewById(R.id.buttonListeEchan);
     Button buttonMaj = (Button) findViewById(R.id.buttonMajEchan);
 
-    //ouyjhwdbfvuhqdgfhgdfbh
+    //commentaire test
 
     @Override
     // OnCreatz

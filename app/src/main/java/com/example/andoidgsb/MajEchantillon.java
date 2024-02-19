@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class MajEchantillon extends AppCompatActivity {
+    //commentaire test
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
