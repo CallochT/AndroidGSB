@@ -10,8 +10,9 @@ import android.widget.Button;
 public class MainActivity extends AppCompatActivity {
     Button buttonAjout = (Button) findViewById(R.id.buttonAjoutEchan);
     Button buttonListe = (Button) findViewById(R.id.buttonListeEchan);
-
     Button buttonMaj = (Button) findViewById(R.id.buttonMajEchan);
+
+    //
 
     @Override
     // OnCreatz
