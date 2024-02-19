@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AndoidGSB</string>
+    <string name="TitreText">Application de gestion des échantillons de complémentaire alimentaire</string>
+    <string name="TitreAjout">Ajout un nouvelle échantillons</string>
+    <string name="TitreListe">Liste des échantillons</string>
+    <string name="MajEnchan">Maj d'un échantillons</string>
 </resources>
