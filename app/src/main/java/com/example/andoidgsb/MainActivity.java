@@ -8,17 +8,18 @@ import android.view.View;
 import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
-    Button buttonAjout = (Button) findViewById(R.id.buttonAjoutEchan);
-    Button buttonListe = (Button) findViewById(R.id.buttonListeEchan);
-    Button buttonMaj = (Button) findViewById(R.id.buttonMajEchan);
+    Button buttonAjout;
+    Button buttonListe;
+    Button buttonMaj;
 
-    //commentaire test
 
-    @Override
-    // OnCreatz
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        buttonAjout = findViewById(R.id.buttonAjoutEchan);
+        buttonListe = findViewById(R.id.buttonListeEchan);
+        buttonMaj = findViewById(R.id.buttonMajEchan);
 
         buttonAjout.setOnClickListener(new View.OnClickListener() {
             @Override

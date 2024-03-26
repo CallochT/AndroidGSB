@@ -3,5 +3,12 @@
     <string name="TitreText">Application de gestion des échantillons de complémentaire alimentaire</string>
     <string name="TitreAjout">Ajout un nouvelle échantillons</string>
     <string name="TitreListe">Liste des échantillons</string>
-    <string name="MajEnchan">Maj d'un échantillons</string>
+    <string name="MajEnchan">Maj dun échantillons</string>
+    <string name="saisieAjout">Saisir un échantillon:</string>
+    <string name="buttonAjout">Button</string>
+    <string name="saisirCode">Saisir ici un code</string>
+    <string name="saisir_ici_un_libelle">Saisir ici un libelle</string>
+    <string name="saisir_ici_un_stock">Saisir ici un stock</string>
+    <string name="quitter">Quitter</string>
+    <string name="ajout_d_echantillon">Ajout d\'echantillon</string>
 </resources>

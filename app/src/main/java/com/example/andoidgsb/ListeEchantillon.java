@@ -5,7 +5,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class ListeEchantillon extends AppCompatActivity {
-    //commentaire jaaj test
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
